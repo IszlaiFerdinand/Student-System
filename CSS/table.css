@@ -1,0 +1,105 @@
+:root {
+  --white: #fff;
+  --black: #333;
+  --fsega: #a60000;
+  /*  --hatter: #ccc; */
+  --hatter: #808080;
+  --arnyek: 0 1px 5px rgba(104, 104, 104, 0.8);
+  --backgroundshadow: rgba(104, 104, 104, 0.6);
+  --backgroundshadowlight: rgba(255, 255, 255, 0.6);
+}
+/* Gyoker elemek */
+html {
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--black);
+}
+
+body {
+  background: url("../img/hatterkep2.jpg");
+  background-position: center;
+  background-size: contain;
+  max-width: 100%;
+  margin: auto;
+}
+
+img {
+  display: block;
+  width: auto;
+  height: 500px;
+}
+
+.php {
+  display: block;
+  background-color: var(--fsega);
+  border-radius: 2rem;
+  text-align: center;
+  margin: 20px;
+  color: white;
+}
+
+.php h1 {
+  padding: 20px 20px;
+  line-height: 150%;
+}
+
+#table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 1vw;
+  max-width: 100%;
+  line-height: 200%;
+  color: black;
+}
+
+#table td,
+#table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#table tr:nth-child(even) {
+  background-color: #6b8f71;
+}
+
+#table tr:nth-child(odd) {
+  background-color: #aad2ba;
+}
+
+#table tr:hover {
+  background-color: rgb(37, 181, 218);
+}
+
+#table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #3dfaff;
+  color: black;
+}
+
+input[type="submit"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  margin-top: 20px;
+  outline: none;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+input[type="submit"]:hover {
+  background: #2ecc71;
+}

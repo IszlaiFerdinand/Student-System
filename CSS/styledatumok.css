@@ -1,0 +1,59 @@
+:root {
+  --white: #fff;
+  --black: #333;
+  --fsega: #a60000;
+  /*  --hatter: #ccc; */
+  --hatter: #808080;
+  --arnyek: 0 1px 5px rgba(104, 104, 104, 0.8);
+  --backgroundshadow: rgba(104, 104, 104, 0.6);
+  --backgroundshadowlight: rgba(255, 255, 255, 0.6);
+}
+/* Gyoker elemek */
+html {
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--black);
+}
+
+body {
+  background: url("../img/hatterkep2.jpg");
+  background-position: center;
+  background-size: contain;
+  max-width: 100%;
+  margin: auto;
+}
+
+.wrapper {
+  display: grid;
+  grid-gap: 2rem;
+}
+
+.kerdesek {
+  display: grid;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: var(--fsega);
+  border-radius: 2rem;
+  text-align: center;
+  font-size: 2vw;
+  font-weight: bold;
+  color: var(--white);
+}
+
+.kerdesek p {
+  font-size: 3vw;
+}
+
+ol li {
+  margin: 20px;
+  list-style: none;
+}
+
+ul li {
+  color: #ffba08;
+  text-align: center;
+}

@@ -1,0 +1,40 @@
+HTML alapok
+https://www.youtube.com/watch?v=UB1O30fR-EE
+
+CSS alapok 
+https://www.youtube.com/watch?v=vQWlgd7hV4A&t=1378s
+
+CSS grid tutorial 
+https://www.youtube.com/watch?v=jV8B24rSN5o&t=1330s
+https://www.youtube.com/watch?v=0-DY8J_skZ0
+
+Nav bar tutorial 
+https://www.youtube.com/watch?v=PwWHL3RyQgk
+
+HTML formok
+https://www.w3schools.com/tags/tag_form.asp
+https://www.w3schools.com/html/html_forms.asp
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+https://www.w3schools.com/html/html_form_elements.asp
+https://www.w3schools.com/howto/howto_js_dropdown.asp
+
+CSS ötletek
+https://www.w3.org/Style/Examples/007/color-bullets.en.html
+https://navnav.co/
+https://www.w3schools.com/cssref/sel_class.asp
+https://www.w3schools.com/cssref/pr_class_position.asp
+https://bashooka.com/coding/34-pure-css-button-ideas-inspiration-2019/
+
+
+Javascript 
+https://www.w3schools.com/js/js_comparisons.asp
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+https://www.youtube.com/watch?v=W6NZfCO5SIk
+https://www.youtube.com/watch?v=hdI2bqOjy3c
+https://www.w3schools.com/howto/howto_js_countdown.asp
+https://stackoverflow.com/questions/20618355/the-simplest-possible-javascript-countdown-timer
+
+Jquery
+https://learn.jquery.com/using-jquery-core/faq/
+https://coolestguidesontheplanet.com/creating-expandable-faq-page-using-jquery/
+
